@@ -1,0 +1,13 @@
+?airmiles
+head(airmiles)
+tail(airmiles)
+summary(airmiles)
+summary(mtcars)
+plot(mtcars)
+hist(airmiles)
+head(mtcars)
+sum(mtcars$wt)
+attach(mtcars)
+sum(wt)
+detach(mtcars)
+mtcars[1,6]
