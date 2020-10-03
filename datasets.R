@@ -11,3 +11,4 @@ attach(mtcars)
 sum(wt)
 detach(mtcars)
 mtcars[1,6]
+myobject1=scan()
