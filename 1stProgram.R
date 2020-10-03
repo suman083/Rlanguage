@@ -25,4 +25,7 @@ paste("xyz",1:10,sep="")
 ?rep
 rep(c(1,2,5),3)
 x=c(1,2,5,7);
-rep(x,rech=2,times=3)
+rep(x,each=2,times=3)
+which(x==2) 
+x[2]
+ 
